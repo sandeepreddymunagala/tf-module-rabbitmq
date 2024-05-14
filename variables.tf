@@ -5,6 +5,6 @@ variable "sg_subnet_cidr" {}
 variable "tags" {}
 variable "vpc_id" {}
 variable "subnet_id" {}
-variable "allow_ssh_cidr" {}
+/*variable "allow_ssh_cidr" {}
 variable "zone_id" {}
-variable "kms_key_arn" {}
+variable "kms_key_arn" {}*/
